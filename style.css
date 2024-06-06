@@ -786,21 +786,18 @@ form #btn:hover {
 .a-center .a-left .img-circle {
     height: 15vw;
     width: 15vw;
-    box-shadow: 0px 0px 1vw .2vw pink,
-        0px 0px 1vw .3vw aliceblue,
-        0px 0px 1vw .5vw wheat;
-
+    
     border-radius: 50%;
     position: relative;
 }
 
 .a-center .a-left .img-circle img {
-    height: 115%;
+    height: 100%;
     width: 100%;
     border-radius: 50%;
     object-fit: cover;
-    transform: rotate(14deg);
     position: absolute;
+    border: 5px solid rgba(211, 216, 216, 0.916);
     top: -15%;
 }
 
@@ -1131,16 +1128,7 @@ form #btn:hover {
         margin: 1.8vw;
     }
 
-    #home .center #box4 .image-container img:nth-child(4) {
-        width: 12vw;
-    }
-    #home .center #box4 .image-container img:nth-child(9) {
-        width: 10vw;    
-    }
-    #home .center #box4 .image-container img:nth-child(10) {
-        width: 14vw;
-        margin: 1.8vw 0;
-    }
+  
     
 
 
