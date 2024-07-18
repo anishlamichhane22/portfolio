@@ -2,18 +2,11 @@
 
 
 let projectArr = [
-
     
-    {
-        video:"videos/techinfo.mp4",
-        tools:["JavaScript","HTML","Tailwind CSS"],
-        title:"TechInfo",
-        url:"https://Anish-techinfo.vercel.app",
-    },
     {
         video:"videos/bhome.mp4",
         tools:["JavaScript","HTML","CSS"],
-        title:"B-Home",
+        title:"Find-Home",
         url:"https://b-home.vercel.app",
     },
     {
@@ -21,12 +14,6 @@ let projectArr = [
         tools:["JavaScript","HTML","CSS"],
         title:"E-commerce Website",
         url:"https://b-store.vercel.app",
-    },
-    {
-        video:"videos/vr.mp4",
-        tools:["HTML","CSS","JS"],
-        title:"Virtual Reality Website",
-        url:"https://Anishtask.netlify.app",
     },
     {
         video:"videos/todolist.mp4",
